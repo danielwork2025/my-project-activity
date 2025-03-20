@@ -1,13 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="120px" height="35px" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <mask fill="white" id="clip93">
-      <path d="M 1682.799 1457  L 1757.201 1457  L 1757.201 1481  L 1682.799 1481  Z M 1659 1450  L 1779 1450  L 1779 1485  L 1659 1485  Z " fill-rule="evenodd" />
-    </mask>
-  </defs>
-  <g transform="matrix(1 0 0 1 -1659 -1450 )">
-    <path d="M 1659.5 1450.5  L 1778.5 1450.5  L 1778.5 1484.5  L 1659.5 1484.5  L 1659.5 1450.5  Z " fill-rule="nonzero" fill="#f2f2f2" stroke="none" />
-    <path d="M 1659.5 1450.5  L 1778.5 1450.5  L 1778.5 1484.5  L 1659.5 1484.5  L 1659.5 1450.5  Z " stroke-width="1" stroke="#797979" fill="none" />
-    <path d="M 1660.64571428571 1450.48  L 1777.35428571429 1484.52  M 1777.35428571429 1450.48  L 1660.64571428571 1484.52  " stroke-width="1" stroke="#797979" fill="none" mask="url(#clip93)" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="11px" height="11px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -2487 -532 )">
+    <path d="M 1.15318474418605 10.8269797209302  L 0.0418470697674419 9.71564204651163  L 9.66863776744186 0.0888513488372105  L 10.7799754418605 1.20018902325581  L 1.15318474418605 10.8269797209302  Z " fill-rule="nonzero" fill="#138fe0" stroke="none" transform="matrix(1 0 0 1 2487 532 )" />
   </g>
 </svg>
